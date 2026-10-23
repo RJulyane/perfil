@@ -46,7 +46,7 @@ body * {
 
 #container{
     width: 360px;
-    height: 56px auto 0px;
+    margin: 56px auto 0px;
     padding: 0 24px;
 }
 /*swith*/
